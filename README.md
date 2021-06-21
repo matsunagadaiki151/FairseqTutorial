@@ -34,7 +34,7 @@ fairseqを用いて簡単な機械翻訳モデルを実装するチュートリ�
 - 本ノートブックではKFTTの事前にトークナイズされたデータを使用しています。
 実際には[MeCab](https://taku910.github.io/mecab/)や[sentencepiece](https://github.com/google/sentencepiece)などを利用して個人でトークナイズする必要があります。
 - 本ノートブックで実行した内容は、インスタンスを閉じると全て削除されます。
-もし、データを残したいのであれば、Google Drive内にがファイルを保存しましょう。
+もし、データを残したいのであれば、Google Drive内にファイルを保存しましょう。
 
 　
 ## 参考サイト
